@@ -37,7 +37,7 @@ class Tejas:
 - 🤖 Into **AI/ML** — especially **graph neural networks** and autonomous agents
 - 👁️ Build **computer-vision** things that react to the real world in real time
 - 🧩 Love turning messy problems into clean **graph + algorithm** solutions
-- 📫 Reach me: **<<EDIT: your@email.com>>**
+- 📫 Reach me: **<<tejasprasad181@gmail.com>>**
 
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
@@ -188,9 +188,9 @@ A maze-solver written in **C** that models the maze as a graph — cells become 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](<<EDIT: your LinkedIn URL>>)
-[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=FF00E5)](mailto:<<EDIT: your@email.com>>)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/DevMatrix06)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tejas-p-407411384/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejasprasad181@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/DevMatrix06)
 
 </div>
 
