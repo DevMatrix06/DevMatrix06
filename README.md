@@ -71,6 +71,50 @@ class Tejas:
 <tr>
 <td width="50%" valign="top">
 
+<a href="https://github.com/DevMatrix06/RAG-Indian-Budget">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMatrix06&repo=RAG-Indian-Budget&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 RAG — Indian Budget
+
+> Ask the Union Budget anything, in plain English.
+
+A **domain-agnostic RAG pipeline** that lets you query Indian government budget documents in natural language. Built with **BGE embeddings**, **Qdrant** vector search, and **Gemini** for generation — wrapped in a slick **React + Three.js** frontend.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Pipeline-00F5D4?style=for-the-badge&logoColor=black)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/DevMatrix06/LLM_WATCH">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMatrix06&repo=LLM_WATCH&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️‍🗨️ LLM Watch
+
+> X-ray vision for every LLM call your app makes.
+
+An **LLM observability platform** that intercepts every **Anthropic** and **OpenAI** API call through a lightweight **TypeScript SDK** — logging prompts, completions, latency, cost, and token usage to a **PostgreSQL** backend.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Observability](https://img.shields.io/badge/LLM%20Observability-FF00E5?style=for-the-badge&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 <a href="https://github.com/DevMatrix06/Autonomous-AI-Maintainter-for-Github-Repos">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMatrix06&repo=Autonomous-AI-Maintainter-for-Github-Repos&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
 </a>
@@ -130,28 +174,6 @@ A web project that reads a **live camera feed**, detects hand gestures, and fire
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF00E5?style=for-the-badge&logoColor=white)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/DevMatrix06/MAZE-TRAVEL">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMatrix06&repo=MAZE-TRAVEL&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🧩 Maze Travel
-
-> A maze is just a graph wearing a disguise.
-
-A maze-solver written in **C** that models the maze as a graph — cells become vertices, paths become edges — then runs **DFS/BFS** traversal to find a valid route from start to finish. Clean classic-algorithms work, close to the metal.
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Graphs](https://img.shields.io/badge/DFS%20%2F%20BFS-00F5D4?style=for-the-badge&logoColor=black)
 
 </td>
 </tr>
