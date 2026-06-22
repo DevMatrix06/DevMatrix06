@@ -219,7 +219,7 @@ A **voice-first crop advisory** for Karnataka farmers. Combines **AI4Bharat Indi
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevMatrix06&hide_border=true&background=0d1117&ring=00F5D4&fire=FF00E5&currStreakLabel=7C3AED&sideLabels=c9d1d9&dates=8b949e" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevMatrix06&hide_border=true&background=0d1117&ring=00F5D4&fire=FF00E5&currStreakLabel=7C3AED&sideLabels=c9d1d9&dates=8b949e&currStreakNum=00F5D4&sideNums=ffffff" />
 
 <br/><br/>
 
