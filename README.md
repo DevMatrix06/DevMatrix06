@@ -37,7 +37,7 @@ class Tejas:
 - 🤖 Into **AI/ML** — especially **graph neural networks** and autonomous agents
 - 👁️ Build **computer-vision** things that react to the real world in real time
 - 🧩 Love turning messy problems into clean **graph + algorithm** solutions
-- 📫 Reach me: **<<tejasprasad181@gmail.com>>**
+- 📫 Reach me: **tejasprasad181@gmail.com**
 
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
@@ -62,12 +62,36 @@ class Tejas:
 ### 🌐 Web & Tools
 ![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=node.js&logoColor=339933)
+![Three.js](https://img.shields.io/badge/Three.js-0a0a0a?style=for-the-badge&logo=three.js&logoColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=F05032)
 
 <!-- ===================== FEATURED PROJECTS ===================== -->
 ## 🚀 Featured Projects
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+<a href="https://github.com/DevMatrix06/Cascading_Disaster">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMatrix06&repo=Cascading_Disaster&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🌋 Cascading Disaster
+
+> Predict the disaster *after* the disaster — before it happens.
+
+A **spatiotemporal GNN + causal inference** system that forecasts cascading natural disasters (e.g. **wildfire → landslide**) using **NASA satellite data**. Ships with a **live risk dashboard** so the whole chain reaction is visible as it unfolds.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GNN](https://img.shields.io/badge/Spatiotemporal%20GNN-00C2FF?style=for-the-badge&logoColor=black)
+
+</td>
+</tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -126,7 +150,7 @@ An **LLM observability platform** that intercepts every **Anthropic** and **Open
 
 > An agent that clones your repo and fixes it while you sleep.
 
-A Python AI agent that clones **any** GitHub repository, runs **static code analysis**, and hunts down syntax and runtime errors. It then applies compiler-level fixes and keeps iterating until the code is healthy — self-healing repos, basically.
+A Python AI agent that clones **any** GitHub repository, runs **static code analysis**, and hunts down syntax and runtime errors. It applies compiler-level fixes, iteratively validates correctness, then **commits the changes and opens a pull request** — self-healing repos, basically.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AI Agent](https://img.shields.io/badge/AI%20Agent-7C3AED?style=for-the-badge&logoColor=white)
@@ -159,27 +183,25 @@ An **Anti-Money-Laundering** graph analyser powered by **Graph Neural Networks**
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/DevMatrix06/Clash-Royale-Emote-Detector">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMatrix06&repo=Clash-Royale-Emote-Detector&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
+<a href="https://github.com/DevMatrix06/Kannada-Krishi-Assistant">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMatrix06&repo=Kannada-Krishi-Assistant&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 👋 Clash Royale Emote Detector
+### 🌾 Kannada Krishi Assistant
 
-> Wave at your webcam, get an emote. Real-time hand-tracking for fun.
+> Speak Kannada, snap your crop, hear back advice — no internet needed.
 
-A web project that reads a **live camera feed**, detects hand gestures, and fires off the matching emote in **real time**. A playful dive into gesture-based interaction and low-latency computer vision.
+A **voice-first crop advisory** for Karnataka farmers. Combines **AI4Bharat IndicConformer** (ASR), **EfficientNet-B0** disease detection, and **IndicF5** TTS into a fully **local, offline** multimodal pipeline. *(work in progress 🚧)*
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-FF00E5?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Multimodal AI](https://img.shields.io/badge/Multimodal%20AI-FF00E5?style=for-the-badge&logoColor=white)
 
 </td>
 </tr>
 </table>
-
-<!-- Weal-Digital_AI has no description on GitHub yet — add one and I'll style a card for it -->
 
 <div align="center">
 
