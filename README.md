@@ -74,7 +74,7 @@ class Tejas:
 <td width="50%" valign="top">
 
 <a href="https://github.com/DevMatrix06/Cascading_Disaster">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMatrix06&repo=Cascading_Disaster&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DevMatrix06&repo=Cascading_Disaster&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
 </a>
 
 </td>
@@ -96,7 +96,7 @@ A **spatiotemporal GNN + causal inference** system that forecasts cascading natu
 <td width="50%" valign="top">
 
 <a href="https://github.com/DevMatrix06/RAG-Indian-Budget">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMatrix06&repo=RAG-Indian-Budget&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DevMatrix06&repo=RAG-Indian-Budget&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
 </a>
 
 </td>
@@ -118,7 +118,7 @@ A **domain-agnostic RAG pipeline** that lets you query Indian government budget 
 <td width="50%" valign="top">
 
 <a href="https://github.com/DevMatrix06/LLM_WATCH">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMatrix06&repo=LLM_WATCH&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DevMatrix06&repo=LLM_WATCH&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
 </a>
 
 </td>
@@ -140,7 +140,7 @@ An **LLM observability platform** that intercepts every **Anthropic** and **Open
 <td width="50%" valign="top">
 
 <a href="https://github.com/DevMatrix06/Autonomous-AI-Maintainter-for-Github-Repos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMatrix06&repo=Autonomous-AI-Maintainter-for-Github-Repos&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DevMatrix06&repo=Autonomous-AI-Maintainter-for-Github-Repos&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
 </a>
 
 </td>
@@ -162,7 +162,7 @@ A Python AI agent that clones **any** GitHub repository, runs **static code anal
 <td width="50%" valign="top">
 
 <a href="https://github.com/DevMatrix06/AML-Analyser">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMatrix06&repo=AML-Analyser&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DevMatrix06&repo=AML-Analyser&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
 </a>
 
 </td>
@@ -184,7 +184,7 @@ An **Anti-Money-Laundering** graph analyser powered by **Graph Neural Networks**
 <td width="50%" valign="top">
 
 <a href="https://github.com/DevMatrix06/Kannada-Krishi-Assistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMatrix06&repo=Kannada-Krishi-Assistant&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DevMatrix06&repo=Kannada-Krishi-Assistant&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
 </a>
 
 </td>
