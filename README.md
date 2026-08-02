@@ -22,7 +22,7 @@
 </div>
 
 <!-- ===================== ABOUT ===================== -->
-## 🧠 About Me
+##  About Me :
 
 ```python
 class Tejas:
@@ -35,9 +35,9 @@ class Tejas:
 ```
 
 - 🤖 Into **AI/ML** — especially **graph neural networks** and autonomous agents
-- 👁️ Build **computer-vision** things that react to the real world in real time
-- 🧩 Love turning messy problems into clean **graph + algorithm** solutions
-- 📫 Reach me: **tejasprasad181@gmail.com**
+-  Build **computer-vision** things that react to the real world in real time
+-  Love turning messy problems into clean **graph + algorithm** solutions
+-  Reach me: **tejasprasad181@gmail.com**
 
 <!-- ===================== TECH STACK ===================== -->
 ## 🛠️ Tech Stack
