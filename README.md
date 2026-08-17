@@ -1,4 +1,4 @@
-<!--
+!--
 =====================================================================
   GITHUB PROFILE README  —  DevMatrix06 (Tejas P)
   NEON / DARK THEME
@@ -82,7 +82,7 @@ Reach me: tejasprasad181@gmail.com
 <td width="50%" valign="top">
 
 <a href="https://github.com/DevMatrix06/Cascading_Disaster">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMatrix06&repo=Cascading_Disaster&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DevMatrix06&repo=Cascading_Disaster&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
 </a>
 
 </td>
@@ -104,7 +104,7 @@ A spatiotemporal GNN + causal inference system that forecasts cascading natural 
 <td width="50%" valign="top">
 
 <a href="https://github.com/DevMatrix06/RAG-Indian-Budget">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMatrix06&repo=RAG-Indian-Budget&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DevMatrix06&repo=RAG-Indian-Budget&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
 </a>
 
 </td>
@@ -126,7 +126,7 @@ A domain-agnostic RAG pipeline that lets you query Indian government budget docu
 <td width="50%" valign="top">
 
 <a href="https://github.com/DevMatrix06/LLM_WATCH">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMatrix06&repo=LLM_WATCH&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DevMatrix06&repo=LLM_WATCH&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
 </a>
 
 </td>
@@ -148,7 +148,7 @@ An LLM observability platform that intercepts every Anthropic and OpenAI API cal
 <td width="50%" valign="top">
 
 <a href="https://github.com/DevMatrix06/Autonomous-AI-Maintainter-for-Github-Repos">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMatrix06&repo=Autonomous-AI-Maintainter-for-Github-Repos&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DevMatrix06&repo=Autonomous-AI-Maintainter-for-Github-Repos&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
 </a>
 
 </td>
@@ -170,7 +170,7 @@ A Python AI agent that clones any GitHub repository, runs static code analysis, 
 <td width="50%" valign="top">
 
 <a href="https://github.com/DevMatrix06/AML-Analyser">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMatrix06&repo=AML-Analyser&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DevMatrix06&repo=AML-Analyser&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
 </a>
 
 </td>
@@ -192,7 +192,7 @@ An Anti-Money-Laundering graph analyser powered by Graph Neural Networks. It mod
 <td width="50%" valign="top">
 
 <a href="https://github.com/DevMatrix06/Kannada-Krishi-Assistant">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DevMatrix06&repo=Kannada-Krishi-Assistant&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=DevMatrix06&repo=Kannada-Krishi-Assistant&theme=transparent&bg_color=0d1117&title_color=00F5D4&icon_color=7C3AED&text_color=c9d1d9&border_color=FF00E5" />
 </a>
 
 </td>
@@ -228,7 +228,7 @@ A voice-first crop advisory for Karnataka farmers. Combines AI4Bharat IndicConfo
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=DevMatrix06&hide_border=true&background=0d1117&ring=00F5D4&fire=FF00E5&currStreakLabel=7C3AED&sideLabels=c9d1d9&dates=8b949e&currStreakNum=00F5D4&sideNums=ffffff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DevMatrix06&hide_border=true&background=0d1117&ring=00F5D4&fire=FF00E5&currStreakLabel=7C3AED&sideLabels=c9d1d9&dates=8b949e&currStreakNum=00F5D4&sideNums=ffffff" />
 
 <br/><br/>
 
