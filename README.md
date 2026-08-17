@@ -83,7 +83,7 @@ class Tejas:
 <td width="45%" valign="top">
 
 <a href="https://github.com/DevMatrix06/Cascading_Disaster">
-<img width="100%" src="https://opengraph.githubassets.com/1/DevMatrix06/Cascading_Disaster" style="border-radius:8px" />
+<img width="100%" src="https://socialify.git.ci/DevMatrix06/Cascading_Disaster/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Dark" style="border-radius:8px" />
 </a>
 
 </td>
@@ -104,7 +104,7 @@ A spatiotemporal GNN + causal inference system that forecasts cascading natural 
 <td width="45%" valign="top">
 
 <a href="https://github.com/DevMatrix06/RAG-Indian-Budget">
-<img width="100%" src="https://opengraph.githubassets.com/1/DevMatrix06/RAG-Indian-Budget" style="border-radius:8px" />
+<img width="100%" src="https://socialify.git.ci/DevMatrix06/RAG-Indian-Budget/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Dark" style="border-radius:8px" />
 </a>
 
 </td>
@@ -125,7 +125,7 @@ A domain-agnostic RAG pipeline that lets you query Indian government budget docu
 <td width="45%" valign="top">
 
 <a href="https://github.com/DevMatrix06/LLM_WATCH">
-<img width="100%" src="https://opengraph.githubassets.com/1/DevMatrix06/LLM_WATCH" style="border-radius:8px" />
+<img width="100%" src="https://socialify.git.ci/DevMatrix06/LLM_WATCH/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Dark" style="border-radius:8px" />
 </a>
 
 </td>
@@ -146,7 +146,7 @@ An LLM observability platform that intercepts every Anthropic and OpenAI API cal
 <td width="45%" valign="top">
 
 <a href="https://github.com/DevMatrix06/Autonomous-AI-Maintainter-for-Github-Repos">
-<img width="100%" src="https://opengraph.githubassets.com/1/DevMatrix06/Autonomous-AI-Maintainter-for-Github-Repos" style="border-radius:8px" />
+<img width="100%" src="https://socialify.git.ci/DevMatrix06/Autonomous-AI-Maintainter-for-Github-Repos/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Dark" style="border-radius:8px" />
 </a>
 
 </td>
@@ -167,7 +167,7 @@ A Python AI agent that clones any GitHub repository, runs static code analysis, 
 <td width="45%" valign="top">
 
 <a href="https://github.com/DevMatrix06/AML-Analyser">
-<img width="100%" src="https://opengraph.githubassets.com/1/DevMatrix06/AML-Analyser" style="border-radius:8px" />
+<img width="100%" src="https://socialify.git.ci/DevMatrix06/AML-Analyser/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Dark" style="border-radius:8px" />
 </a>
 
 </td>
@@ -188,7 +188,7 @@ An Anti-Money-Laundering graph analyser powered by Graph Neural Networks. It mod
 <td width="45%" valign="top">
 
 <a href="https://github.com/DevMatrix06/Kannada-Krishi-Assistant">
-<img width="100%" src="https://opengraph.githubassets.com/1/DevMatrix06/Kannada-Krishi-Assistant" style="border-radius:8px" />
+<img width="100%" src="https://socialify.git.ci/DevMatrix06/Kannada-Krishi-Assistant/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Dark" style="border-radius:8px" />
 </a>
 
 </td>
