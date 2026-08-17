@@ -82,14 +82,14 @@ class Tejas:
 <tr>
 <td width="45%" valign="top">
 
-**🌋 Cascading Disaster**
-
 <a href="https://github.com/DevMatrix06/Cascading_Disaster">
-<img src="https://img.shields.io/badge/GNN-7C3AED?style=for-the-badge" /> <img src="https://img.shields.io/badge/Causal%20Inference-00F5D4?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+<img width="100%" src="https://opengraph.githubassets.com/1/DevMatrix06/Cascading_Disaster" style="border-radius:8px" />
 </a>
 
 </td>
 <td width="55%" valign="top">
+
+**🌋 Cascading Disaster**
 
 Predict the disaster after the disaster — before it happens.
 
@@ -103,14 +103,14 @@ A spatiotemporal GNN + causal inference system that forecasts cascading natural 
 <tr>
 <td width="45%" valign="top">
 
-**📚 RAG — Indian Budget**
-
 <a href="https://github.com/DevMatrix06/RAG-Indian-Budget">
-<img src="https://img.shields.io/badge/RAG-00F5D4?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+<img width="100%" src="https://opengraph.githubassets.com/1/DevMatrix06/RAG-Indian-Budget" style="border-radius:8px" />
 </a>
 
 </td>
 <td width="55%" valign="top">
+
+**📚 RAG — Indian Budget**
 
 Ask the Union Budget anything, in plain English.
 
@@ -124,14 +124,14 @@ A domain-agnostic RAG pipeline that lets you query Indian government budget docu
 <tr>
 <td width="45%" valign="top">
 
-**👁️‍🗨️ LLM Watch**
-
 <a href="https://github.com/DevMatrix06/LLM_WATCH">
-<img src="https://img.shields.io/badge/Observability-FF00E5?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+<img width="100%" src="https://opengraph.githubassets.com/1/DevMatrix06/LLM_WATCH" style="border-radius:8px" />
 </a>
 
 </td>
 <td width="55%" valign="top">
+
+**👁️‍🗨️ LLM Watch**
 
 X-ray vision for every LLM call your app makes.
 
@@ -145,14 +145,14 @@ An LLM observability platform that intercepts every Anthropic and OpenAI API cal
 <tr>
 <td width="45%" valign="top">
 
-**🤖 Autonomous AI Maintainer**
-
 <a href="https://github.com/DevMatrix06/Autonomous-AI-Maintainter-for-Github-Repos">
-<img src="https://img.shields.io/badge/Self--Healing%20Agent-00C2FF?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+<img width="100%" src="https://opengraph.githubassets.com/1/DevMatrix06/Autonomous-AI-Maintainter-for-Github-Repos" style="border-radius:8px" />
 </a>
 
 </td>
 <td width="55%" valign="top">
+
+**🤖 Autonomous AI Maintainer**
 
 An agent that clones your repo and fixes it while you sleep.
 
@@ -166,14 +166,14 @@ A Python AI agent that clones any GitHub repository, runs static code analysis, 
 <tr>
 <td width="45%" valign="top">
 
-**🕸️ AML Analyser**
-
 <a href="https://github.com/DevMatrix06/AML-Analyser">
-<img src="https://img.shields.io/badge/Graph%20ML-7C3AED?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+<img width="100%" src="https://opengraph.githubassets.com/1/DevMatrix06/AML-Analyser" style="border-radius:8px" />
 </a>
 
 </td>
 <td width="55%" valign="top">
+
+**🕸️ AML Analyser**
 
 Catching dirty money by reading the shape of the network.
 
@@ -187,14 +187,14 @@ An Anti-Money-Laundering graph analyser powered by Graph Neural Networks. It mod
 <tr>
 <td width="45%" valign="top">
 
-**🌾 Kannada Krishi Assistant**
-
 <a href="https://github.com/DevMatrix06/Kannada-Krishi-Assistant">
-<img src="https://img.shields.io/badge/WIP-FF00E5?style=for-the-badge&labelColor=0d1117&color=0d1117" />
+<img width="100%" src="https://opengraph.githubassets.com/1/DevMatrix06/Kannada-Krishi-Assistant" style="border-radius:8px" />
 </a>
 
 </td>
 <td width="55%" valign="top">
+
+**🌾 Kannada Krishi Assistant**
 
 Speak Kannada, snap your crop, hear back advice — no internet needed.
 
