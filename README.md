@@ -89,7 +89,7 @@ class Tejas:
 </td>
 <td width="55%" valign="top">
 
-**👁️‍🗨️ LLM Watch**
+**👁️‍🗨️ LogLens**
 
 X-ray vision for every LLM call your app makes.
 
