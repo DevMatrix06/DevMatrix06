@@ -154,6 +154,27 @@ Ranks open issues for each contributor by meaning, using text embeddings stored 
 <tr>
 <td width="45%" valign="top">
 
+<a href="https://github.com/DevMatrix06/A-lightweight-Linux-container-runtime-in-C">
+<img width="100%" src="https://socialify.git.ci/DevMatrix06/A-lightweight-Linux-container-runtime-in-C/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Dark" style="border-radius:8px" />
+</a>
+
+</td>
+<td width="55%" valign="top">
+
+**🐧 Multi-Container Runtime**
+
+Containers from scratch: namespaces, a daemon and a kernel module.
+
+A lightweight Linux container runtime in C. A long-running supervisor daemon manages multiple isolated containers through `clone()` with PID, UTS and mount namespaces, controlled over a UNIX domain socket. A bounded-buffer producer/consumer pipeline writes each container's output to its own log, and a kernel module tracks memory use and enforces soft and hard limits.
+
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Kernel%20Module-7C3AED?style=flat-square" />
+
+</td>
+</tr>
+
+<tr>
+<td width="45%" valign="top">
+
 <a href="https://github.com/DevMatrix06/RAG-Indian-Budget">
 <img width="100%" src="https://socialify.git.ci/DevMatrix06/RAG-Indian-Budget/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Dark" style="border-radius:8px" />
 </a>
@@ -168,48 +189,6 @@ Ask the Union Budget anything, in plain English.
 A domain-agnostic RAG pipeline that lets you query Indian government budget documents in natural language. Built with BGE embeddings, Qdrant vector search, and Gemini for generation — wrapped in a slick React + Three.js frontend.
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" /> <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
-
-</td>
-</tr>
-
-<tr>
-<td width="45%" valign="top">
-
-<a href="https://github.com/DevMatrix06/Autonomous-AI-Maintainter-for-Github-Repos">
-<img width="100%" src="https://socialify.git.ci/DevMatrix06/Autonomous-AI-Maintainter-for-Github-Repos/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Dark" style="border-radius:8px" />
-</a>
-
-</td>
-<td width="55%" valign="top">
-
-**🤖 Autonomous AI Maintainer**
-
-An agent that clones your repo and fixes it while you sleep.
-
-A Python AI agent that clones any GitHub repository, runs static code analysis, and hunts down syntax and runtime errors. It applies compiler-level fixes, iteratively validates correctness, then commits the changes and opens a pull request — self-healing repos, basically.
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Static%20Analysis-7C3AED?style=flat-square" />
-
-</td>
-</tr>
-
-<tr>
-<td width="45%" valign="top">
-
-<a href="https://github.com/DevMatrix06/AML-Analyser">
-<img width="100%" src="https://socialify.git.ci/DevMatrix06/AML-Analyser/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Dark" style="border-radius:8px" />
-</a>
-
-</td>
-<td width="55%" valign="top">
-
-**🕸️ AML Analyser**
-
-Catching dirty money by reading the shape of the network.
-
-An Anti-Money-Laundering graph analyser powered by Graph Neural Networks. It models financial activity as a graph and learns the patterns that flag suspicious transaction flows — the kind of structure a flat table would miss entirely.
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/NetworkX-2E8B57?style=flat-square" />
 
 </td>
 </tr>
