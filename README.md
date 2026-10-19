@@ -82,6 +82,27 @@ class Tejas:
 <tr>
 <td width="45%" valign="top">
 
+<a href="https://github.com/DevMatrix06/LLM_WATCH">
+<img width="100%" src="https://socialify.git.ci/DevMatrix06/LLM_WATCH/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Dark" style="border-radius:8px" />
+</a>
+
+</td>
+<td width="55%" valign="top">
+
+**👁️‍🗨️ LLM Watch**
+
+X-ray vision for every LLM call your app makes.
+
+An LLM observability platform that intercepts every Anthropic and OpenAI API call through a lightweight TypeScript SDK — logging prompts, completions, latency, cost, and token usage to a PostgreSQL backend.
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+
+</td>
+</tr>
+
+<tr>
+<td width="45%" valign="top">
+
 <a href="https://github.com/DevMatrix06/Cascading_Disaster">
 <img width="100%" src="https://socialify.git.ci/DevMatrix06/Cascading_Disaster/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Dark" style="border-radius:8px" />
 </a>
@@ -103,6 +124,27 @@ A spatiotemporal GNN + causal inference system that forecasts cascading natural 
 <tr>
 <td width="45%" valign="top">
 
+<a href="https://github.com/DevMatrix06/DBMS_MiniProject">
+<img width="100%" src="https://socialify.git.ci/DevMatrix06/DBMS_MiniProject/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Dark" style="border-radius:8px" />
+</a>
+
+</td>
+<td width="55%" valign="top">
+
+**🧭 DevMatch**
+
+Find the open-source issue that fits your skills.
+
+Ranks open issues for each contributor by meaning, using text embeddings stored in PostgreSQL with pgvector, plus hybrid keyword + semantic search. Maintainers review applicants with a match score. Triggers, row locks and 40 integration tests keep the data correct under concurrent use.
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/pgvector-336791?style=flat-square" />
+
+</td>
+</tr>
+
+<tr>
+<td width="45%" valign="top">
+
 <a href="https://github.com/DevMatrix06/RAG-Indian-Budget">
 <img width="100%" src="https://socialify.git.ci/DevMatrix06/RAG-Indian-Budget/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Dark" style="border-radius:8px" />
 </a>
@@ -117,27 +159,6 @@ Ask the Union Budget anything, in plain English.
 A domain-agnostic RAG pipeline that lets you query Indian government budget documents in natural language. Built with BGE embeddings, Qdrant vector search, and Gemini for generation — wrapped in a slick React + Three.js frontend.
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square" /> <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
-
-</td>
-</tr>
-
-<tr>
-<td width="45%" valign="top">
-
-<a href="https://github.com/DevMatrix06/LLM_WATCH">
-<img width="100%" src="https://socialify.git.ci/DevMatrix06/LLM_WATCH/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Dark" style="border-radius:8px" />
-</a>
-
-</td>
-<td width="55%" valign="top">
-
-**👁️‍🗨️ LLM Watch**
-
-X-ray vision for every LLM call your app makes.
-
-An LLM observability platform that intercepts every Anthropic and OpenAI API call through a lightweight TypeScript SDK — logging prompts, completions, latency, cost, and token usage to a PostgreSQL backend.
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 
 </td>
 </tr>
@@ -180,27 +201,6 @@ Catching dirty money by reading the shape of the network.
 An Anti-Money-Laundering graph analyser powered by Graph Neural Networks. It models financial activity as a graph and learns the patterns that flag suspicious transaction flows — the kind of structure a flat table would miss entirely.
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/NetworkX-2E8B57?style=flat-square" />
-
-</td>
-</tr>
-
-<tr>
-<td width="45%" valign="top">
-
-<a href="https://github.com/DevMatrix06/Kannada-Krishi-Assistant">
-<img width="100%" src="https://socialify.git.ci/DevMatrix06/Kannada-Krishi-Assistant/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Dark" style="border-radius:8px" />
-</a>
-
-</td>
-<td width="55%" valign="top">
-
-**🌾 Kannada Krishi Assistant**
-
-Speak Kannada, snap your crop, hear back advice — no internet needed.
-
-A voice-first crop advisory for Karnataka farmers. Combines AI4Bharat IndicConformer (ASR), EfficientNet-B0 disease detection, and IndicF5 TTS into a fully local, offline multimodal pipeline. (work in progress 🚧)
-
-<img src="https://img.shields.io/badge/ASR-00F5D4?style=flat-square&labelColor=0d1117&color=0d1117" /> <img src="https://img.shields.io/badge/EfficientNet-EE4C2C?style=flat-square" /> <img src="https://img.shields.io/badge/TTS-7C3AED?style=flat-square&labelColor=0d1117&color=0d1117" />
 
 </td>
 </tr>
