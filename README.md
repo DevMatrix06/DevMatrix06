@@ -85,8 +85,8 @@ class Tejas:
 <tr>
 <td width="45%" valign="top">
 
-<a href="https://github.com/DevMatrix06/LLM_WATCH">
-<img width="100%" src="https://socialify.git.ci/DevMatrix06/LLM_WATCH/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Dark" style="border-radius:8px" />
+<a href="https://github.com/DevMatrix06/loglens">
+<img width="100%" src="https://socialify.git.ci/DevMatrix06/loglens/image?font=Inter&language=1&name=1&owner=1&pattern=Circuit+Board&theme=Dark" style="border-radius:8px" />
 </a>
 
 </td>
